@@ -1,11 +1,11 @@
 {
-  "commit": "2aa5fac9a0b5f3c75b53eaf18df89c38e41dce20",
+  "commit": "97a5a9465d8ded81626bcbaff173bfa09e9f551d",
   "geojson": "okrsky_senat_edit.geojson",
-  "run_id": "1108163b89f8",
-  "generated_at": "2026-10-10T16:46:41.121336+00:00",
-  "updated_at": "2026-10-10T16:46:54.741621+00:00",
-  "secteno_okrsku": 3604,
+  "run_id": "d63f263ba77d",
+  "generated_at": "2026-10-10T16:54:36.689433+00:00",
+  "updated_at": "2026-10-10T16:54:50.795918+00:00",
+  "secteno_okrsku": 3665,
   "celkem_okrsku": 5021,
-  "secteno_pct": 71.8,
+  "secteno_pct": 73.0,
   "election_year": 2026
 }
