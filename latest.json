@@ -1,9 +1,9 @@
 {
-  "commit": "61aa5917bc275f341ddbe6f468d2dc6f6cd4a9aa",
+  "commit": "23be646837565e4291cef0d684b4c8795d7bb520",
   "geojson": "okrsky_senat_edit.geojson",
-  "run_id": "099ac50f4475",
-  "generated_at": "2026-10-11T01:31:56.762916+00:00",
-  "updated_at": "2026-10-11T01:32:07.196344+00:00",
+  "run_id": "b30515ca3a0b",
+  "generated_at": "2026-10-11T01:38:31.116614+00:00",
+  "updated_at": "2026-10-11T01:38:42.956804+00:00",
   "secteno_okrsku": 5012,
   "celkem_okrsku": 5021,
   "secteno_pct": 99.8,
